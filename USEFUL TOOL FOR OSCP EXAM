@@ -1,11 +1,7 @@
-Nmap Scanning:
-https://discord.gg/strQxxe ) 
-AutoRecon - 
+Nmap Scanning:--->>>>AutoRecon - 
 https://github.com/Tib3rius/AutoRecon
 -------------------------------------------------------------------------------------------------------------------------
-LFI Fuzzing: 
-A WAPT (Web Application Pen Testing)
-goWAPT
+LFI Fuzzing:---->>>>goWAPT     A WAPT (Web Application Pen Testing)
 ttps://github.com/dzonerzy/goWAPT
 -------------------------------------------------------------------------------------------------------------------------
 Tmux: 
@@ -13,8 +9,27 @@ Tmux:
 https://github.com/gpakosz/.tmux
 https://github.com/devzspy/.tmux
 plugin called tmux-logging 
-which can be found here:
 https://github.com/tmux-plugins/tmux-logging
 essentially this allows a user to capture everything that has occurred in a tmux session window / 
 pane after the fact or real time logging.
 -------------------------------------------------------------------------------------------------------------------------
+    Powerless for Windows
+    https://github.com/M4ximuss/Powerless
+    Batch script that is fairly similar to that of Linux’s LinEnum.sh script. 
+    It is suggested that the user has accesschk.exe in the same directory.
+-------------------------------------------------------------------------------------------------------------------------
+PowerUp for Windows
+https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc
+This is a PowerShell based version of LinEnum which has additional useful features compare to that of Powerless.
+-------------------------------------------------------------------------------------------------------------------------
+    Local Privilege Escalation Workshop
+    https://github.com/sagishahar/lpeworkshop
+    This workshop has scripts that can make a Windows and Linux system vulnerable to a number of different local privilege escalation techniques. There is also exercises, videos, and documents to follow along.
+-------------------------------------------------------------------------------------------------------------------------
+Get the F*** Out Bins — 
+https://gtfobins.github.io/
+GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
+-------------------------------------------------------------------------------------------------------------------------
+    Wfuzz — https://github.com/xmendez/wfuzz
+    Fairly useful program for fuzzing websites for Local File Inclusions and much more. 
+    I preferred this over goWAPT which I posted in my second write up.
