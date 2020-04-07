@@ -1,0 +1,20 @@
+Nmap Scanning:
+https://discord.gg/strQxxe ) 
+AutoRecon - 
+https://github.com/Tib3rius/AutoRecon
+-------------------------------------------------------------------------------------------------------------------------
+LFI Fuzzing: 
+A WAPT (Web Application Pen Testing)
+goWAPT
+ttps://github.com/dzonerzy/goWAPT
+-------------------------------------------------------------------------------------------------------------------------
+Tmux: 
+“Oh My Tmux” — 
+https://github.com/gpakosz/.tmux
+https://github.com/devzspy/.tmux
+plugin called tmux-logging 
+which can be found here:
+https://github.com/tmux-plugins/tmux-logging
+essentially this allows a user to capture everything that has occurred in a tmux session window / 
+pane after the fact or real time logging.
+-------------------------------------------------------------------------------------------------------------------------
