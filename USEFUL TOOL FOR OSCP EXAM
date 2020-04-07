@@ -1,5 +1,9 @@
-Nmap Scanning:--->>>>AutoRecon - 
+(((Scanning)))Nmap :--->>>>AutoRecon - 
 https://github.com/Tib3rius/AutoRecon
+-------------------------------------------------------------------------------------------------------------------------
+(((Enumeration)))Reconnoitre
+automate information gathering and service enumeration
+https://github.com/codingo/Reconnoitre
 -------------------------------------------------------------------------------------------------------------------------
 LFI Fuzzing:---->>>>goWAPT     A WAPT (Web Application Pen Testing)
 ttps://github.com/dzonerzy/goWAPT
