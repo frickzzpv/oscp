@@ -1,0 +1,28 @@
+
+Before starting the PWK course I solved little over a dozen of the Vulnhub VMs, mainly so I don’t need to start from rock bottom on the PWK lab. Below is a list of machines I rooted, most of them are similar to what you’ll be facing in the lab. I’ve written walkthroughs for a few of them as well, but try harder first ;)
+Linux
+Beginner friendly
+
+    Kioptrix: Level 1 (#1)
+    Kioptrix: Level 1.1 (#2)
+    Kioptrix: Level 1.2 (#3)
+    Kioptrix: Level 1.3 (#4)
+    FristiLeaks: 1.3
+    Stapler: 1
+    PwnLab: init
+
+Intermediate
+
+    Kioptrix: 2014
+    Brainpan: 1
+    Mr-Robot: 1
+    HackLAB: Vulnix
+
+Not so sure (Didn’t solve them yet)
+
+    VulnOS: 2
+    SickOs: 1.2
+    /dev/random: scream
+    pWnOS: 2.0
+    SkyTower: 1
+    IMF
